@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e51def9-0306-4341-813c-4932439e3a0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hSHsyVF0OlTNfdwMH6m8i4DKJm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e51def9-0306-4341-813c-4932439e3a0d" name="Default Changelist" comment="" />
+      <created>1599997783688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599997783688</updated>
+      <workItem from="1599997784907" duration="1000" />
+      <workItem from="1599997801349" duration="6753000" />
+      <workItem from="1600025167458" duration="1519000" />
+      <workItem from="1600094520650" duration="3969000" />
+      <workItem from="1600112281020" duration="1296000" />
+      <workItem from="1600113707391" duration="2913000" />
+      <workItem from="1600197922704" duration="43000" />
+      <workItem from="1600198008031" duration="43000" />
+      <workItem from="1600198083969" duration="24000" />
+      <workItem from="1600198455159" duration="2044000" />
+      <workItem from="1600284347626" duration="3302000" />
+      <workItem from="1600369901602" duration="3257000" />
+      <workItem from="1600455387274" duration="100000" />
+      <workItem from="1601579834738" duration="3463000" />
+      <workItem from="1601666871833" duration="1242000" />
+      <workItem from="1601838546321" duration="1294000" />
+      <workItem from="1601921191480" duration="4225000" />
+      <workItem from="1602007590308" duration="599000" />
+      <workItem from="1603384481373" duration="14000" />
+      <workItem from="1603568766308" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="256" key="#Notifications" timestamp="1600369942192">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="127" y="256" key="#Notifications/0.0.1600.870@0.0.1600.870" timestamp="1600369942192" />
+    <state x="554" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601580445288">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="554" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1601580445288" />
+    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600197931624">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="480" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.870@0.0.1600.870" timestamp="1600197931624" />
+    <state x="301" y="79" key="SettingsEditor" timestamp="1599999054005">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="79" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1599999054005" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1601839300307">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1601839300307" />
+  </component>
+</project>
